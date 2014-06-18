@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"समूह और सहकर्मी"</string>
+    <string name="action_hindi">"हिंदी"</string>
+    <string name="action_english">"अंग्रेज़ी"</string>
+    <string name="action_marathi">"मराठी"</string>
+    <string name="aboutus">"हमारे बारे में"</string>
+    <string name="Help">"मदद"</string>
+    <string name="files">"फ़ाइलें"</string>
+    <string name="here_is_your_question">"यहाँ आपका प्रश्न हैं"</string>
+    <string name="submit">"प्रस्तुत करना"</string>
+    <string name="answer">"जवाब"</string>
+    <string name="true1">"सही"</string>
+    <string name="false1">"गलत"</string>
+    <string name="type_your_question_here">"यहाँ अपना प्रश्न लिखे...."</string>  
+    <string name="type_your_answer_here">"यहाँ अपना जवाब लिखे...."</string>
+    <string name="enter_group_name">"अपने समूह का नाम दर्ज करे"</string> 
+    <string name="one_word_question">"एक शब्द सवाल"</string>
+    <string name="true_false_question">"सही गलत सवाल"</string>
+    <string name="multiple_choice_question">"एकाधिक पसंद सवाल"</string>
+    <string name="username">"प्रयोक्ता नाम"</string>
+    <string name="password">"पासवर्ड"</string>
+    <string name="login">"लॉगिन"</string>
+    <string name="option_2">"विकल्प 2"</string>
+    <string name="option_1">"विकल्प 1"</string>
+    <string name="option_3">"विकल्प 3"</string>
+    <string name="option_4">"विकल्प 4"</string>
+    <string name="New_password">"नया पासवर्ड"</string>
+    <string name="Current_password">"वर्तमान पासवर्ड"</string>
+    <string name="Confirm_password">"नए पासवर्ड की पुष्टि"</string>
+    <string name="general_instruction">"सामान्य अनुदेश"</string>
+    <string name="leader">"लीडर"</string>
+    <string name="skip">"स्किप"</string>
+    <string name="please_wait">"कृपया प्रतीक्षा करें..!!"</string>
+    <string name="please_wait_leader">"लीडर कृपया प्रतीक्षा करें..!!"</string>
+    <string name="password_changed">"आपका पासवर्ड सफलतापूर्वक बदल गया है."</string>
+    <string name="please_try_again">"पुन: प्रयास करें..!!"</string>
+    <string name="unknown_error1">"अज्ञात त्रुटि..!!"</string>
+    <string name="you_selected_mcq">"आप एकाधिक पसंद सवालों का चयन किया है"</string>
+    <string name="you_selected_tf">"आप सही गलत सवालों का चयन किया है"</string>
+    <string name="you_selected_oneword">"आप एक शब्द के सवालों का चयन किया है"</string>
+    <string name="You_are_already_logged_in">"आप पहले से लॉगिन हैं"</string>
+    <string name="The_entered_fields_are_invalid">"दर्ज किया गया क्षेत्रों अमान्य हैं"</string>
+    <string name="Please_check_your_username_and_password">"अपने यूज़रनेम और पासवर्ड की जांच करें"</string>
+    <string name="performance">"निष्पादन"</string>
+    <string name="assignment">"कार्य"</string>
+    <string name="changepwd">"पासवर्ड परिवर्तित"</string>
+    <string name="question">"सवाल"</string>  
+    <string name="choose_an_option">"एक विकल्प का चयन"</string>
+    <string name="you_selected">"आप चयनित "</string>
+    <string name="question_submitted_successfully">"प्रश्न सफलतापूर्वक प्रस्तुत"</string>
+    <string name="ques_accepted_by_teacher">"शिक्षक द्वारा स्वीकार सवाल"</string>
+    <string name="ques_rejected_by_teacher">"शिक्षक द्वारा अस्वीकार सवाल"</string>
+    <string name="select_team">"अपनी टीम का चयन"</string>
+    <string name="group_full">"चयनित समूह भरा हुआ है, एक दूसरे की कोशिश करें."</string>
+    <string name="answer_correct">"आपका जवाब सही है."</string>
+    <string name="answer_wrong">"आपका जवाब गलत है."</string>
+    <string name="this_is_ur_team">"यह आपकी टीम है"</string>
+   <string name="errormessage">"आपका अनुरोध का समय समाप्त हो गया है! फिर से कोशिश करें"</string>
+    <string name="groupleader">"अब आप लीडर हैं!"</string>
+    <string name="sessionexpire">"लीडर सत्र समाप्त हो रहा है जब तक प्रतीक्षा करें"</string>
+    <string name="denyleader">"क्षमा करें,आप एक लीडर के रूप में चयनित नहीं किया गया है." </string>
+    <string name="onlinestudents">"---> ऑनलाइन छात्रों की कुल संख्या: "</string>
+    <string name="rounds">"---> राउंड की कुल संख्या: "</string>
+    <string name="subject">"---> इस प्रश्नोत्तरी सत्र का विषय: "</string>
+    <string name="noofleaders">"---> लीडरो की कुल संख्या: "</string>
+    <string name="groupmembers">"और प्रत्येक समूह में सदस्यों की अधिकतम संख्या: "</string>
+    
+    
+    
+
+
+</resources>

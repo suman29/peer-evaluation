@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GroupNpeer</string>
+    <string name="action_hindi">Hindi</string>
+    <string name="action_english">English</string>
+    <string name="action_marathi">Marathi</string>
+    <string name="aboutus">About Us</string>
+    <string name="Help">Help</string>
+    <string name="files">Files</string>
+    <string name="here_is_your_question">here is your question</string>
+    <string name="submit">Submit</string>
+    <string name="answer">answer</string>
+    <string name="true1">True</string>
+    <string name="false1">False</string>
+    <string name="type_your_question_here">Type your question here....</string>  
+    <string name="type_your_answer_here">Type your answer here....</string>
+    <string name="enter_group_name">Enter your group name</string> 
+    <string name="one_word_question">One Word Questions</string>
+    <string name="true_false_question">True False Questions</string>
+    <string name="multiple_choice_question">Multiple Choice Questions</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="option_2">option 2</string>
+    <string name="option_1">option 1</string>
+    <string name="option_3">option 3</string>
+    <string name="option_4">option 4</string>
+    <string name="New_password">New password</string>
+    <string name="Current_password">Current password</string>
+    <string name="Confirm_password">Confirm new password</string>
+    <string name="general_instruction">General Instructions</string>
+    <string name="leader">Leader</string>
+    <string name="skip">Skip</string>
+    <string name="please_wait">Please Wait..!!</string>
+    <string name="please_wait_leader">Please Wait Leader..!!</string>
+    <string name="password_changed">Your password is changed successfully.</string>
+    <string name="please_try_again">Please try again..!!</string>
+    <string name="unknown_error1">Unknown error !!</string>
+    <string name="you_selected_mcq">you have selected multiple choice questions !!</string>
+    <string name="you_selected_tf">you have selected true false questions !!</string>
+    <string name="you_selected_oneword">you have selected one word questions !!</string>
+    <string name="You_are_already_logged_in">You are already logged in</string>
+    <string name="The_entered_fields_are_invalid">The entered fields are invalid</string>
+    <string name="Please_check_your_username_and_password">Please check your username and password</string>
+    <string name="performance">Performance</string>
+    <string name="assignment">Assignments</string>
+    <string name="changepwd">Change password</string>
+    <string name="question">Questions</string>  
+    <string name="choose_an_option">Choose an option</string>
+    <string name="you_selected">You selected </string>
+    <string name="question_submitted_successfully">Question submitted successfully</string>
+    <string name="ques_accepted_by_teacher">Question Accepted by teacher</string>
+    <string name="ques_rejected_by_teacher">Question rejected by teacher</string>
+    <string name="select_team">"Select your Team"</string>
+    <string name="group_full">The Selected group is full, Please try another one.</string>
+    <string name="answer_correct">Your answer is correct.</string>
+    <string name="answer_wrong">Your answer is wrong.</string>
+    <string name="this_is_ur_team">This is your team</string>
+   <string name="errormessage">Your request has been timed out! Try again</string>
+    <string name="groupleader">You are Leader now!</string>
+    <string name="sessionexpire">Please wait until the leader session expires </string>
+    <string name="denyleader">Sorry, You have not been selected as a leader. </string>
+    <string name="onlinestudents">--->Total number of online students: </string>
+    <string name="rounds">--->Total number of rounds: </string>
+    <string name="subject">--->The subject of this quiz session: </string>
+    <string name="noofleaders">--->Total number of leaders: </string>
+    <string name="groupmembers">and maximum number of members in each group: </string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>
