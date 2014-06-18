@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Marathi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">"वापरकर्तानाव" </string>
+    <string name="Password">"परवलीचा शब्द"</string>
+    <string name="login">"लॉगिन"</string>
+     <string name="action_hindi">Hindi</string>
+   <string name="action_english">Marathi</string>
+   <string name="aboutus">"आमच्याबद्दल"</string>
+   <string name="Help">"मदत करणे"</string>
+    <string name="grp_submit">"सबमिट"</string>
+    <string name="group_name">"गट नाव"</string>
+    <string name="Maths">"गणिताच्या"</string>
+    <string name="Science">"विज्ञान"</string>
+     <string name="English">"इंग्रज लोक"</string>
+     <string name="New_password">"नवीन पासवर्ड"</string>
+     <string name="Current_password">"सध्याचा परवलीचा"</string>
+     <string name="Confirm_password">"पासवर्ड पुष्टी"</string>
+     <string name="general_instruction">"सर्वसाधारण सूचना"</string>
+     <string name="leader">"पुढारी"</string>
+   
+
+
+
+</resources>
